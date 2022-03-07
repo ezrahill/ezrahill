@@ -6,12 +6,12 @@
 
 <!-- Top Language Dashboard -->
 <a href="https://github.com/ezrahill">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezrahill&theme=merko&line_height=27" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezrahill&theme=dark&line_height=27" />
 </a>
 
 <!-- Stats Dashboard -->
 <a href="https://github.com/ezrahill">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezra&show_icons=true&theme=merko&line_height=27" alt="Ezra's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezra&show_icons=true&theme=dark&line_height=27" alt="Ezra's github stats" />
 </a>
 
 <!--
