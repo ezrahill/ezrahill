@@ -6,7 +6,7 @@
 
 <!-- Top Language Dashboard -->
 <a href="https://github.com/ezrahill">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezrahill&theme=merko" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezrahill&theme=merko&line_height=27" />
 </a>
 
 <!-- Stats Dashboard -->
