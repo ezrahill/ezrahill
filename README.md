@@ -12,7 +12,7 @@ I'm a DevOps Engineer who enjoys making life easy using code.
 
 <!-- Stats Dashboard -->
 <a href="https://github.com/ezrahill">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezra&show_icons=true&theme=dark&line_height=27" alt="Ezra's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezrahill&show_icons=true&theme=dark&line_height=27" alt="Ezra's github stats" />
 </a>
 
 <!--
