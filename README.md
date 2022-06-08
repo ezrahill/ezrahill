@@ -2,7 +2,6 @@
 
 I'm a DevOps Engineer who enjoys making life easy using code.
 
-## Socials
 <p align='left'>
   <a href="https://dev.to/ezrahill"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/dev.png"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/ezrahill"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/twitter.png"></a>&nbsp;&nbsp;
