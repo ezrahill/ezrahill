@@ -1,19 +1,26 @@
-## Hey 👋
+# 👋 Hey, I'm [Ezra Hill](https://ezrahill.github.io)
 
-I'm a DevOps Engineer who enjoys making life easy using code.
+## About Me
+I'm a skilled DevOps Engineer 👨🏾‍💻 with a passion for automating processes and improving efficiency.  My expertise in code allows me to create innovative solutions that make life easier for everyone.
 
+When I'm not working behind the computer, I enjoy exploring the beauty of the world on my road bike 🚴🏾.  I find cycling to be the perfect balance for my tech-filled life.
+
+- 🔭 I’m currently working on building frontends
+- 🌱 I’m currently learning JavaScript
+
+## Socials
 <p align='left'>
   <a href="https://dev.to/ezrahill"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/dev.png"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/ezrahill"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/twitter.png"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ezrahill/"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/linkedin.png"></a>
 </p>
 
-## Statistics
-<!-- Streak Dashboard -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=ezrahill&theme=dark)](https://git.io/streak-stats)
-
+## GitHub Statistics
 <!-- Top Language Dashboard -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezrahill&theme=dark&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Streak Dashboard -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=ezrahill&theme=dark&date_format=dS%20F%20Y)](https://git.io/streak-stats)
 
 <!-- Stats Dashboard -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezrahill&show_icons=true&theme=dark&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
