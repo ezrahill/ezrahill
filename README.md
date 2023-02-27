@@ -9,17 +9,14 @@ I'm a DevOps Engineer who enjoys making life easy using code.
 </p>
 
 ## Statistics
-<!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
+<!-- Streak Dashboard -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=ezrahill&theme=dark)](https://git.io/streak-stats)
 
 <!-- Top Language Dashboard -->
-<a href="https://github.com/ezrahill">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezrahill&theme=dark&line_height=27" />
-</a>
+[![Anurag's GitHub stats]("https://github-readme-stats.vercel.app/api/top-langs/?username=ezrahill&theme=dark&line_height=27")](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Stats Dashboard -->
-<a href="https://github.com/ezrahill">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezrahill&show_icons=true&theme=dark&line_height=27" alt="Ezra's github stats" />
-</a>
+[![Anurag's GitHub stats]("https://github-readme-stats.vercel.app/api?username=ezrahill&show_icons=true&theme=dark&line_height=27")](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Languages and Tools</h3>
 <p>
