@@ -5,9 +5,9 @@ I’m a skilled DevOps Engineer 👨🏾‍💻 with over 25 years of experience
 
 When I’m not working behind the computer, I enjoy exploring the world on my road bike 🚴🏾. Cycling provides the perfect balance to my tech-filled life.
 
-🔭 I’m currently working on building frontends
-🌱 I’m currently learning JavaScript
-🕵🏾‍♂️ Excitedly diving into the world of Oracle Cloud Infrastructure (OCI) and discovering new possibilities!
+- 🔭 I’m currently working on building frontends
+- 🌱 I’m currently learning JavaScript
+- 🕵🏾‍♂️ Excitedly diving into the world of Oracle Cloud Infrastructure (OCI) and discovering new possibilities!
 
 ## Socials
 <p align='left'>
