@@ -1,12 +1,13 @@
 # 👋 Hey, I'm [Ezra Hill](https://ezrahill.github.io)
 
 ## About Me
-I'm a skilled DevOps Engineer 👨🏾‍💻 with a passion for automating processes and improving efficiency.  My expertise in code allows me to create innovative solutions that make life easier for everyone.
+I’m a skilled DevOps Engineer 👨🏾‍💻 with over 25 years of experience and a passion for automating processes to improve efficiency. My expertise allows me to create innovative solutions that streamline workflows and make life easier for everyone.
 
-When I'm not working behind the computer, I enjoy exploring the beauty of the world on my road bike 🚴🏾.  I find cycling to be the perfect balance for my tech-filled life.
+When I’m not working behind the computer, I enjoy exploring the world on my road bike 🚴🏾. Cycling provides the perfect balance to my tech-filled life.
 
-- 🔭 I’m currently working on building frontends
-- 🌱 I’m currently learning JavaScript
+🔭 I’m currently working on building frontends
+🌱 I’m currently learning JavaScript
+🕵🏾‍♂️ On a fun journey exploring and learning Oracle Cloud Infrastructure (OCI)
 
 ## Socials
 <p align='left'>
